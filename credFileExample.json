@@ -1,8 +1,7 @@
 {
-	"Username":"",
-	"Password":"",
-	"Domain":"",
-	"SMTP_domain":"",
-	"IMAP_domain":""
-
+  "Username": "",
+  "IMAP_domain": "",
+  "Password": "",
+  "Domain": "TEST",
+  "SMTP_domain": ""
 }
